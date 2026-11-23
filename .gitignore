@@ -1,0 +1,17 @@
+# Xcode
+xcuserdata/
+DerivedData/
+build/
+*.xcuserstate
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Signing
+*.mobileprovision
+*.p12
+*.p8
+*.cer
+
+# macOS
+.DS_Store
